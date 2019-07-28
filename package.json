@@ -1,0 +1,19 @@
+{
+  "name": "hometask2807",
+  "version": "1.0.0",
+  "description": "gogle\u001b[D\u001b[D\u001b[Do\u001b[C\u001b[C\u001bcity coordinate",
+  "main": "httpServer.js",
+  "scripts": {
+    "start": "node httpServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varannchik/HomeTask2807.git"
+  },
+  "author": "Anna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varannchik/HomeTask2807/issues"
+  },
+  "homepage": "https://github.com/Varannchik/HomeTask2807#readme"
+}
